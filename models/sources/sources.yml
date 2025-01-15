@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: ods
+    schema: natgeobi
+    tables:
+      - name: affiliate_fields
+      - name: affiliate_mappings
+      - name: ods_affiliate_amazon_earnings
+      - name: ods_affiliate_amazon_files
+      - name: ods_affiliate_amazon_orders
+      - name: ods_affiliate_amazon_tracking
+      - name: ods_affiliate_skimlinks_commissions
+      - name: ods_affiliate_skimlinks_daily_aggregate
